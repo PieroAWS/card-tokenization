@@ -1,0 +1,17 @@
+# Node artifact files
+node_modules/
+.build/
+dist/
+.aws/
+.serverless/
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+
+# Config files
+.env
+package-lock.json
+
+# lock files
+package-lock.json
